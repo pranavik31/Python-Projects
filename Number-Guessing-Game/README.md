@@ -10,6 +10,6 @@ A Python-based number guessing game where the player tries to guess a randomly g
   - Hard (5 attempts)
 - Hint after every incorrect guess
 - Displays the correct number when all attempts are used
-## Output
+## Program Output
 
 ![Number Guessing Game Output](output.png)
